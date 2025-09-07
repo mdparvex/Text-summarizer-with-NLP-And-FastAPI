@@ -27,7 +27,7 @@ summarizer-app/
 │   ├── tasks.py         # Celery tasks
 │   ├── worker.py        # Celery app instance
 │   ├── summarizer.py    # Example summarizer logic
-── models/
+── models/      #files arre missing (large files can be uploded)
 │   ├── decoder_models.h5
 │   ├── encoder_model.h5
 │   ├── reverse_target_word_index.pkl
