@@ -27,7 +27,7 @@ summarizer-app/
 │   ├── tasks.py         # Celery tasks
 │   ├── worker.py        # Celery app instance
 │   ├── summarizer.py    # Example summarizer logic
-── models/      #files arre missing (large files can be uploded)
+── models/      #files are missing (large files can not be uploaded)
 │   ├── decoder_models.h5
 │   ├── encoder_model.h5
 │   ├── reverse_target_word_index.pkl
