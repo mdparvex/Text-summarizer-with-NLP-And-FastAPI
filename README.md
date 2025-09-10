@@ -46,8 +46,8 @@ summarizer-app/
 
 ### 1. Clone Repository
 ```bash
-git clone 
-cd summarizer-app
+git clone https://github.com/mdparvex/Text-summarizer-with-NLP-And-FastAPI.git
+cd textsummerizer
 ```
 
 
